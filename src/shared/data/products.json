@@ -1,0 +1,31 @@
+{
+  "products": [
+        {
+            "name": "Samsung Galaxy S10",
+            "price": "$1000",
+            "stock": 150,
+            "image": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0ECXBW_VTF8yDUJTnfhTTCQVksTc_ypT7w&usqp=CAU",
+                "alt": "Samsung Galaxy S10"
+            }
+        },
+        {
+            "name ": "Iphone X",
+            "price": "$800",
+            "stock": 100,
+            "image": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0ECXBW_VTF8yDUJTnfhTTCQVksTc_ypT7w&usqp=CAU",
+                "alt": "Iphone X"
+            }
+        },
+        {
+            "name ": "Note 9",
+            "price": "$900",
+            "stock": 50,
+            "image": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0ECXBW_VTF8yDUJTnfhTTCQVksTc_ypT7w&usqp=CAU",
+                "alt": "Note 9"
+            }
+        }
+    ]
+}
